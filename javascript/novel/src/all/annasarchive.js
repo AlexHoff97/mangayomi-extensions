@@ -2,10 +2,10 @@ const mangayomiSources = [
   {
     "name": "Annas Archive",
     "lang": "en",
-    "baseUrl": "https://annas-archive.org",
+    "baseUrl": "https://annas-archive.li",
     "apiUrl": "",
     "iconUrl":
-      "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/icon/all.annasarchive.png",
+      "https://raw.githubusercontent.com/AlexHoff97/mangayomi-extensions/main/javascript/icon/all.annasarchive.png",
     "typeSource": "single",
     "itemType": 2,
     "version": "0.0.1",
